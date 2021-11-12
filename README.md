@@ -1,6 +1,6 @@
-# EDA_salary
+### EDA_salary
 
-<imgsrc="abc_12.jpg"  width="100" height="100"  alt=""><hr>
+<img src="abc_12.jpg"  width="100" height="100"  alt=""><hr>
 
 ### analysis salary by Yangon Region Government
 
