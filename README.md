@@ -1,25 +1,19 @@
 ### EDA_salary
 
-<img src="https://upload.wikimedia.org/wikipedia/commons/4/47/Emblem_of_Yangon_Region.png"  width="100" height="100"  alt=""><hr>
+<img src="https://www.sfbenz.com/static/v8/global/images/franchise-logos/auto/m/mercedes-benz/white/183x125.png?r=1635865938000"  width="100" height="100"  alt=""><hr>
 
-### analysis salary by Yangon Region Government.
+### analysis salary by Mercedes-Benz San Francisco (Fake Scenario).
 
 ### Domain Background: 
-Yangon is the capital of the Region and the largest city of Myanmar (also known as Burma). Yangon served as the capital of Myanmar until 2006, when the military government relocated the administrative functions to the purpose-built capital city of Naypyidaw in north central Myanmar
-Yangon government wanted to develop this city by increasing employment opportunities in it, and decided to review the data of employees in San Francisco in order to know the most important jobs spread, salaries and benefits offered to each employee
-
+Mercedes-Benz San Francisco has been in the automotive industry for more than 50 years.Mercedes-Benz has been recognized as the benchmark in terms of high quality, technical models, luxury and value. This project aims is to ensure your Mercedes-Benz car ownership experience exceeds your expectations. to develop marketing plans for our next marketing campaign, we decided to analysis a dataset of San Francisco employees' salary 
+base to know income level and target each category with the appropriate promotional campaign.
 
 ### Questions/needs: 
 
-•	What was the average (mean) BasePay of all the employees per year? 
+•      What is the Top-10 jobs in which there are majority of the people? 
 
-•	What was the average (mean) Total Benefits of all the employees per year? 
+•      What is the proportion of high-income employees, middle-income employees and low-income employees?
 
-•	What is the Top-10 jobs in which there are majority of the people?
-
-•	What is the rate of salary increase from years?
-
-•	What are the top 3 jobs that receive high benefits?
 
 
 ### Data Description:
@@ -61,11 +55,11 @@ Status: type of job (PT, FT).
 
 
 ### Tools:
-•	Numpy and Pandas for data manipulation
+•	Numpy and Pandas for data manipulation.
 
-•	Matplotlib and Seaborn for plotting
+•	Matplotlib and Seaborn for plotting.
 
-•	Tableau for interactive visualizations
+•       plotly for interactive visualizations.
 
 
 
