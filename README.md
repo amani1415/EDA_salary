@@ -10,7 +10,7 @@ base to know income level and target each category with the appropriate promotio
 
 ### Questions/needs: 
 
-•      What is the Top-10 jobs in which there are majority of the people? 
+•      What is the Top-10 jobs in which there are majority of the people?
 
 •      What is the proportion of high-income employees, middle-income employees and low-income employees?
 
